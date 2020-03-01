@@ -1,0 +1,55 @@
+
+Classes:
+
+    Company
+    Location
+    Department
+
+    Person
+    Employee
+    Manager
+    Job
+
+    Project
+    Task
+
+-----------------------------------------------------------------
+
+Interfaces:
+
+    Hired
+    Leader
+
+-----------------------------------------------------------------
+
+Actions:
+
+    add department in models.company
+    remove department from models.company
+    list departments in models.company
+
+    list employees in department
+
+    list projects in department
+
+    get person's age
+
+    get number of years worked by an models.employee at the current job
+    compute models.employee's salary
+    get the manager of an models.employee's department
+
+    manager can hire a person in his department
+    manager can fire an models.employee from his department
+    manager can start a models.project in his department
+    manager can end a models.project in his department
+
+    list models.project's tasks
+    list models.project's team
+    add task to models.project
+    remove task from models.project
+    add models.employee in models.project's team
+    remove models.employee from models.project's team
+
+
+TODO
+-fisier properties in care sa pun constantele (ex. de la id-uri)

@@ -1,0 +1,127 @@
+2019-05-14 09:31:12.822,IMPORTING DATA...
+2019-05-14 09:31:12.893,IMPORTING DATA DONE.
+2019-05-14 09:32:11.693,Added new department: Department{id=9, name='NewDepartment'}
+2019-05-14 09:32:11.702,EXPORTING DATA...
+2019-05-14 09:32:11.747,EXPORTING DATA DONE.
+2019-05-14 09:40:14.849,IMPORTING DATA...
+2019-05-14 09:40:14.913,IMPORTING DATA DONE.
+2019-05-14 09:40:36.577,Listed departments
+2019-05-14 09:41:10.432,Searched department by id: 7
+2019-05-14 09:41:10.439,Removed department: Department{id=7, name='secondDepFromDemo'}
+2019-05-14 09:41:31.796,Listed departments
+2019-05-14 09:41:46.482,Searched department by id: 8
+2019-05-14 09:41:46.489,Removed department: Department{id=8, name='depNou'}
+2019-05-14 09:41:53.016,EXPORTING DATA...
+2019-05-14 09:41:53.057,EXPORTING DATA DONE.
+2019-05-14 09:42:04.863,IMPORTING DATA...
+2019-05-14 09:42:04.93,IMPORTING DATA DONE.
+2019-05-14 09:42:14.531,Listed departments
+2019-05-14 09:42:20.014,Searched department by id: 9
+2019-05-14 09:42:20.02,Removed department: Department{id=9, name='NewDepartment'}
+2019-05-14 09:42:28.987,Listed departments
+2019-05-14 09:42:38.664,EXPORTING DATA...
+2019-05-14 09:42:38.702,EXPORTING DATA DONE.
+2019-06-03 07:50:48.387,Listed departments
+2019-06-03 07:53:39.665,IMPORTING DATA...
+2019-06-03 07:54:50.048,IMPORTING DATA...
+2019-06-03 07:54:50.296,IMPORTING DATA DONE.
+2019-06-03 07:54:54.958,Listed departments
+2019-06-03 07:57:52.514,IMPORTING DATA...
+2019-06-03 07:57:52.754,IMPORTING DATA DONE.
+2019-06-03 08:00:10.995,IMPORTING DATA...
+2019-06-03 08:00:11.183,IMPORTING DATA DONE.
+2019-06-03 08:00:18.111,Listed departments
+2019-06-03 08:00:52.974,Added new department: Department{id=null, name='FourthDepartment'}
+2019-06-03 08:00:57.504,Listed departments
+2019-06-03 08:02:10.974,Listed departments
+2019-06-03 08:06:05.829,IMPORTING DATA...
+2019-06-03 08:06:06.037,IMPORTING DATA DONE.
+2019-06-03 08:06:12.893,Listed departments
+2019-06-03 08:06:25.963,Added new department: Department{id=5, name='FifthDepartment'}
+2019-06-03 08:06:31.246,Listed departments
+2019-06-03 08:06:35.349,Listed departments
+2019-06-03 08:06:37.869,Searched department by id: 5
+2019-06-03 08:06:37.889,Removed department: Department{id=5, name='FifthDepartment'}
+2019-06-03 08:06:39.757,Listed departments
+2019-06-03 08:06:48.673,Listed departments
+2019-06-03 08:06:51.421,Searched department by id: 4
+2019-06-03 08:06:51.429,Removed department: Department{id=4, name='FourthDepartment'}
+2019-06-03 08:06:56.405,Listed departments
+2019-06-03 08:06:58.676,Searched department by id: 1
+2019-06-03 08:06:58.684,In department 1: Listed employees
+2019-06-03 08:09:22.05,IMPORTING DATA...
+2019-06-03 08:09:22.23,IMPORTING DATA DONE.
+2019-06-03 08:09:35.527,Listed departments
+2019-06-03 08:10:11.658,Searched department by id: 1
+2019-06-03 08:10:11.662,In department 1: Listed employees
+2019-06-03 08:11:11.247,IMPORTING DATA...
+2019-06-03 08:11:11.455,IMPORTING DATA DONE.
+2019-06-03 08:18:29.333,IMPORTING DATA...
+2019-06-03 08:18:29.509,IMPORTING DATA DONE.
+2019-06-03 08:20:00.601,IMPORTING DATA...
+2019-06-03 08:21:55.044,IMPORTING DATA...
+2019-06-03 08:28:39.384,IMPORTING DATA...
+2019-06-03 08:29:21.763,IMPORTING DATA...
+2019-06-03 08:29:22.082,IMPORTING DATA DONE.
+2019-06-03 08:29:32.457,Listed departments
+2019-06-03 08:29:33.673,Searched department by id: 1
+2019-06-03 08:29:33.681,In department 1: Listed employees
+2019-06-03 08:35:15.798,IMPORTING DATA...
+2019-06-03 08:35:16.178,IMPORTING DATA DONE.
+2019-06-03 08:35:31.075,Listed departments
+2019-06-03 08:35:32.871,Searched department by id: 5
+2019-06-03 08:35:33.055,Removed department: Department{id=5, name='FifthDepartment'}
+2019-06-03 08:35:41.436,Listed departments
+2019-06-03 08:35:43.351,Searched department by id: 4
+2019-06-03 08:35:43.571,Removed department: Department{id=4, name='FourthDepartment'}
+2019-06-03 08:35:51.971,IMPORTING DATA...
+2019-06-03 08:35:52.279,IMPORTING DATA DONE.
+2019-06-03 08:35:57.842,Listed departments
+2019-06-03 08:36:01.368,Listed departments
+2019-06-03 08:36:02.44,Searched department by id: 1
+2019-06-03 08:36:02.448,In department 1: Listed employees
+2019-06-03 08:42:38.519,IMPORTING DATA...
+2019-06-03 08:42:38.879,IMPORTING DATA DONE.
+2019-06-03 08:46:05.238,IMPORTING DATA...
+2019-06-03 08:46:05.506,IMPORTING DATA DONE.
+2019-06-03 08:46:45.668,Listed departments
+2019-06-03 08:46:48.206,Searched department by id: 1
+2019-06-03 08:47:08.135,In department 1: Added new employee: Employee{id=7, name='Nou', date_of_birth=5-6-1998, email='nou@myco.com', phone_number='1234567890', hire_date=3-5-2019, job=null, department=Department{id=1, name='First Department'}, salary=2000.0}
+2019-06-03 08:47:08.271,In department 1: Added new employee: Employee{id=8, name='Nou', date_of_birth=5-6-1998, email='nou@myco.com', phone_number='1234567890', hire_date=3-5-2019, job=null, department=Department{id=1, name='First Department'}, salary=2000.0}
+2019-06-03 08:52:20.858,Listed departments
+2019-06-03 08:52:22.845,Searched department by id: 1
+2019-06-03 08:52:22.853,In department 1: Listed employees
+2019-06-03 08:52:52.707,In department 1: Searched employee by id: 8
+2019-06-03 08:52:52.899,In department 1: Removed employee: Employee{id=8, name='Nou', date_of_birth=5-6-1998, email='nou@myco.com', phone_number='1234567890', hire_date=3-5-2019, job=null, department=Department{id=1, name='First Department'}, salary=2000.0}
+2019-06-03 10:24:35.93,IMPORTING DATA...
+2019-06-03 10:24:36.114,IMPORTING DATA DONE.
+2019-06-03 10:25:45.345,IMPORTING DATA...
+2019-06-03 10:25:45.477,IMPORTING DATA DONE.
+2019-06-03 10:31:58.399,IMPORTING DATA...
+2019-06-03 10:31:58.535,IMPORTING DATA DONE.
+2019-06-03 10:32:09.5,IMPORTING DATA...
+2019-06-03 10:32:09.632,IMPORTING DATA DONE.
+2019-06-03 10:34:45.71,IMPORTING DATA...
+2019-06-03 10:34:45.846,IMPORTING DATA DONE.
+2019-06-03 10:35:20.342,IMPORTING DATA...
+2019-06-03 10:35:20.478,IMPORTING DATA DONE.
+2019-06-03 10:37:04.985,IMPORTING DATA...
+2019-06-03 10:37:05.117,IMPORTING DATA DONE.
+2019-06-03 10:37:36.605,IMPORTING DATA...
+2019-06-03 10:37:36.729,IMPORTING DATA DONE.
+2019-06-03 10:37:47.178,IMPORTING DATA...
+2019-06-03 10:37:47.306,IMPORTING DATA DONE.
+2019-06-03 10:39:07.438,IMPORTING DATA...
+2019-06-03 10:39:07.57,IMPORTING DATA DONE.
+2019-06-03 10:39:49.472,IMPORTING DATA...
+2019-06-03 10:39:49.596,IMPORTING DATA DONE.
+2019-06-03 10:40:57.104,IMPORTING DATA...
+2019-06-03 10:40:57.232,IMPORTING DATA DONE.
+2019-06-03 10:41:39.505,IMPORTING DATA...
+2019-06-03 10:41:39.657,IMPORTING DATA DONE.
+2019-06-03 10:42:10.438,IMPORTING DATA...
+2019-06-03 10:42:10.566,IMPORTING DATA DONE.
+2019-06-03 10:43:45.659,IMPORTING DATA...
+2019-06-03 10:43:45.787,IMPORTING DATA DONE.
+2019-06-03 10:43:57.523,IMPORTING DATA...
+2019-06-03 10:43:57.651,IMPORTING DATA DONE.
